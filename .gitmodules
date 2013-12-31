@@ -1,0 +1,3 @@
+[submodule "dropwizard"]
+	path = dropwizard
+	url = git@github.com:dropwizard/dropwizard.git
