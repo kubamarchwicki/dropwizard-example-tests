@@ -17,6 +17,7 @@
     <modules>
         <module>dropwizard/dropwizard-example</module>
         <module>dropwizard-example-spock</module>
+        <module>dropwizard-example-junit</module>
     </modules>
 
     <dependencyManagement>
